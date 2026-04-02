@@ -274,6 +274,7 @@ st.markdown("<hr>", unsafe_allow_html=True)
 st.markdown("""
 <p style='text-align:center; color:#444; font-size:0.78rem;'>
 DiabetesIQ · ML Model: Random Forest trained on Pima Indians Diabetes Dataset<br>
-⚠️ For educational purposes only. Not a substitute for medical advice.
+⚠️ For educational purposes only. Not a substitute for medical advice.<br>
+🧑‍💻 Created by Arunesh
 </p>
 """, unsafe_allow_html=True)
