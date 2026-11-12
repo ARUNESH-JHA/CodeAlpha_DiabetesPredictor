@@ -5,7 +5,7 @@
   <img src="https://img.shields.io/badge/License-MIT-green" />
 </p>
 
-<h1 align="center">🩺 DiabetesIQ — AI-Powered Diabetes Risk Predictor</h1>
+
 
 <p align="center">
   <strong>An end-to-end machine learning application that predicts diabetes risk using clinical health indicators, built with a Streamlit web interface and trained on the Pima Indians Diabetes Dataset.</strong>
@@ -287,6 +287,4 @@ Built as part of the **CodeAlpha Data Science Internship** program.
 
 ---
 
-<p align="center">
-  <sub>Made with ❤️ and Python</sub>
-</p>
+
